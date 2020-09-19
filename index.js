@@ -1,4 +1,4 @@
 const getP = () => {
-    return Math.PI;
+    return console.log(Math.PI);
 };
 getP();
